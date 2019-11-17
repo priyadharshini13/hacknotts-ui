@@ -1,0 +1,55 @@
+input[type=text], select {
+    width: 500px;
+    height: 70px;
+    padding: 20px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 20px;
+  }
+  input[type=text]:focus {
+    border: 3px solid red;
+
+  }
+  .title{
+    color: white;
+    font-size:70px;
+  }
+  label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+  }  
+  .FormFields{
+      display: inline-block;
+      margin-top: 200px;
+  
+  }
+  button {
+    width: 40%;
+    background-color: red;
+    color: white;
+    font-weight: bold; 
+    font-size: 20px; 
+    padding: 14px 20px;
+    margin: 10px 90px;
+    border: none;
+    border-radius: 1px;
+    height: 70px;
+    cursor: pointer;
+  }
+.Login{
+    background-image: url("/../images/netflix.png");
+    height: 100%;
+    width:100%;
+    /* height: 100%; */ 
+    /* background-image: url("/../images/landingg.jpg"); */
+    background-repeat: repeat;
+    /* margin-top:5px; */
+    background-position: absolute;
+    /* background-position: center; */
+}
+  .error-msg{
+    color: red;
+  }

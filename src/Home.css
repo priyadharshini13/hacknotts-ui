@@ -1,0 +1,24 @@
+.home {
+    /* left: 0; */
+    /* background-color: #111; */
+     width:100%;
+    /* height: 100%; */ 
+    background-image: url("/../images/landingg.jpg");
+    background-repeat: no-repeat;
+    /* margin-top:5px; */
+    background-position: relative;
+    background-position: center;
+    
+    /* position: absolute; */
+}
+.continue-btn{
+    /* margin-top:150px; */
+    margin-top:780px;
+    /* margin-bottom: -1000px; */
+
+}
+
+.payment {
+    width:100%;
+    background-image:none;
+}
